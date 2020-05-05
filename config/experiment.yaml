@@ -1,0 +1,6 @@
+########################
+# Directories  #
+########################
+root_dir: "/media/data/causal-mdp/"
+data_dir: "/media/data/causal-mdp/data/"
+
